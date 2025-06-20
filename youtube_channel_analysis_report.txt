@@ -1,0 +1,41 @@
+=== YouTube Channel Analysis Report ===
+
+Report generated on: 2025-06-07 14:34:45
+
+=== Channel Overview ===
+Total Videos: 364
+Total Views: 46,883,237.0
+Total Subscribers: 116,853.0
+Average Video Duration: 11.1 minutes
+
+=== Top Performing Videos ===
+      ID     Views  Watch Time (hours)  Subscribers
+228  228  670990.0          50228.5439       3538.0
+188  188  629864.0          42799.3445       3728.0
+142  142  562751.0          32216.5972       1770.0
+196  196  527343.0          53794.6587       1691.0
+108  108  485866.0          15503.5266       1456.0
+
+=== Key Metrics ===
+Average Views per Video: 128,800
+Median Views per Video: 101,950
+Average Watch Time (hours): 10,059.0
+Average CTR (%): 8
+Average Revenue per 1000 Views (USD): $0.11
+
+=== Model Insights ===
+Feature Importance (higher is better):
+                Feature  Importance
+     Watch Time (hours)    0.861841
+            Subscribers    0.069435
+         Video Duration    0.035962
+Video Thumbnail CTR (%)    0.016197
+                   Year    0.009389
+              DayOfWeek    0.003758
+                  Month    0.003417
+
+Recommendations based on analysis:
+1. Focus on creating content similar to your top-performing videos
+2. Optimize video duration based on the duration vs. views analysis
+3. Improve thumbnails and titles to increase CTR
+4. Consider the best days/times to publish based on historical performance
