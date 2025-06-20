@@ -39,22 +39,22 @@ python complete_youtube_analysis.py
 ## Key Visualizations
 
 ### Monthly Views Trend
-![Monthly Views Over Time](https://raw.githubusercontent.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/master/visualizations/monthly_views.png)
+![Monthly Views Over Time](https://github.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/blob/master/visualizations/monthly_views.png)
 
 ### Top Performing Videos
-![Top 10 Videos by Views](https://raw.githubusercontent.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/master/visualizations/top_videos.png)
+![Top 10 Videos by Views](https://github.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/blob/master/visualizations/top_videos.png)
 
 ### Correlation Analysis
-![Correlation Heatmap](https://raw.githubusercontent.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/master/visualizations/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/blob/master/visualizations/correlation_heatmap.png)
 
 ### Video Duration vs Views
-![Duration vs Views](https://raw.githubusercontent.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/master/visualizations/duration_vs_views.png)
+![Duration vs Views](https://github.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/blob/master/visualizations/duration_vs_views.png)
 
 ### Feature Importance
-![Feature Importance](https://raw.githubusercontent.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/master/visualizations/feature_importance.png)
+![Feature Importance](https://github.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/blob/master/visualizations/feature_importance.png)
 
 ### Revenue Analysis
-![Revenue Analysis](https://raw.githubusercontent.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/master/visualizations/revenue_analysis.png)
+![Revenue Analysis](https://github.com/lakshya189/Unlocking-Youtube-Channel-Data-Analyst-project-/blob/master/visualizations/revenue_analysis.png)
 
 ## Output
 
